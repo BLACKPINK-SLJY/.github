@@ -50,8 +50,9 @@ ITerview는 포스트 코로나로 변화된 채용시장에 적합한 면접 �
 <br>
 **Back-end**
 <br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">  
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Databricks&logoColor=white">  <img src="https://img.shields.io/badge/Querydsl-6DB33F?style=flat-square&logo=Databricks&logoColor=white">
 <br>
-추가 예정!
 
 ### Communication
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
