@@ -117,7 +117,7 @@ https://github.com/BLACKPINK-SLJY/.github/assets/94633589/7cb0bb10-0d34-4703-993
 
 - Amazon Transcribe 서비스를 이용하여 STT(Speech To Text)로 변환한 내 답변을 확인해볼 수 있어요.
 - 부정확하게 답변된 부분에는 밑줄로 표시가 돼서 사용자의 명확한 발음이 필요한 부분을 확인할 수 있어요.
-- 추출된 텍스트를 기반으로 AI가 사용자의 답변을 평가해주고 피드백 및 모범 답안을 제시해줘요.
+- 추출된 텍스트를 기반으로 AI가 사용자의 답변을 평가해주고 평가 점수와 함께 피드백 및 모범 답안을 제시해줘요.
 
 ### ⭐️ 질문 답변 스크립트
 ![image](https://github.com/BLACKPINK-SLJY/.github/assets/94633589/b6422beb-93fe-48a4-b70e-7a7000df2ff4)
