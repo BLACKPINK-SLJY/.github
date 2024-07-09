@@ -79,17 +79,3 @@ https://github.com/BLACKPINK-SLJY/.github/assets/94633589/7cb0bb10-0d34-4703-993
 
 <img width="800px" alt="image" src="https://github.com/BLACKPINK-SLJY/.github/assets/94633589/4c2271ca-be1a-4462-8441-a3837158b60a">
 
-
----
-## 핵심 기능 📦
-
-### ⭐️ 
-- 
-- 
-
-### ⭐️ 
-- 
-
-### ⭐️ 
-- 
-
