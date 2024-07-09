@@ -90,7 +90,7 @@ https://github.com/BLACKPINK-SLJY/.github/assets/94633589/7cb0bb10-0d34-4703-993
 - 해당 직무의 면접 질문들을 랜덤으로 테스트해볼 수 있어요.
 - 면접 질문 리스트를 카테고리 별(최신, 난이도 낮은, 난이도 높은, 인기)로 정렬해서 볼 수 있어요.
 
-### ⭐️질문 검색 기능
+### ⭐️ 질문 검색 기능
 <img width="932" alt="image" src="https://github.com/BLACKPINK-SLJY/.github/assets/94633589/e3b902dc-9019-41d5-bc39-ad17ba536573">
 
 - 사용자가 원하는 질문을 빠르게 찾을 수 있는 질문 검색할 수 있어요.
